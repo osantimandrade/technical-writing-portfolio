@@ -18,6 +18,8 @@ Esta guía detalla el proceso paso a paso para generar proxies de manera automat
 ## Paso a paso para generar proxies
 
 ### Fase 1: Preparación del material
+<img width="2672" height="1522" alt="Captura de pantalla 2026-03-07 a la(s) 8 22 45 p m" src="https://github.com/user-attachments/assets/97e6ba37-f712-4059-a679-ff12568cc092" />
+
 1. Localiza el material original en el **Explorador de Medios** de DaVinci Resolve.
 2. Selecciona las carpetas o archivos correspondientes y arrástralos hacia el contenedor principal denominado **Master**.
    * *Nota:* Deberías ver una estructura de árbol con tus carpetas en el panel de medios.
