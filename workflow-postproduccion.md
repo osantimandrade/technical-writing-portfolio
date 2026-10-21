@@ -17,10 +17,12 @@ Para garantizar la sincronización y el correcto ensamblaje del material, se est
 | **Cam C** | Sony A7III | XAVC (FPS variable) |
 
 ### 2.1. Convención de Nomenclatura (File Naming Convention)
-Para evitar colisiones de nombres y facilitar la trazabilidad, se aplicó un estándar de renombrado a los clips de las cámaras A y C.
+Para evitar colisiones de nombres en los programas de edición y facilitar la trazabilidad, se aplicó un estándar de renombrado a los clips de las cámaras A y C.
 
 *   **Formato original:** `Clip0006.MXF`
 *   **Formato estandarizado:** `A25 03 21 Clip0006.MXF`
+<img width="473" height="134" alt="Captura de pantalla 2026-10-21 a la(s) 10 56 29 a m" src="https://github.com/user-attachments/assets/f66cc8f9-ded5-4ab6-9839-9d0f35ac9288" />
+
 
 **Estructura del identificador:**
 *   **Carácter 1:** Identificador de cámara (Ej. `A` para Cam A).
