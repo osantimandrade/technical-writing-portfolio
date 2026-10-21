@@ -21,14 +21,14 @@ Para evitar colisiones de nombres en los programas de edición y facilitar la tr
 
 *   **Formato original:** `Clip0006.MXF`
 *   **Formato estandarizado:** `A25 03 21 Clip0006.MXF`
-<img width="473" height="134" alt="Captura de pantalla 2026-10-21 a la(s) 10 56 29 a m" src="https://github.com/user-attachments/assets/f66cc8f9-ded5-4ab6-9839-9d0f35ac9288" />
-
 
 **Estructura del identificador:**
 *   **Carácter 1:** Identificador de cámara (Ej. `A` para Cam A).
 *   **Dígitos 2-3:** Año de grabación.
 *   **Dígitos 4-5:** Mes de grabación.
 *   **Dígitos 6-7:** Día de grabación.
+<img width="473" height="134" alt="Captura de pantalla 2026-10-21 a la(s) 10 56 29 a m" src="https://github.com/user-attachments/assets/f66cc8f9-ded5-4ab6-9839-9d0f35ac9288" />
+
 
 ## 3. Arquitectura de Almacenamiento (Data Governance)
 El resgualdo del material se gestiona mediante una estrategia de redundancia (Backup) utilizando dos discos duros de 2 TB y un servidor centralizado **TrueNAS**.
