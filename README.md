@@ -7,8 +7,8 @@ Mi formación en montaje y postproducción (EICTV, Cuba) me ha enseñado que un 
 ## 🛠️ Habilidades Técnicas
 * **Docs-as-code:** Escritura en Markdown y gestión de versiones en GitHub.
 * **Documentación de procesos:** Creación de Runbooks, guías paso a paso (How-to) y arquitecturas de información.
-* **Herramientas:** DaVinci Resolve, Avid Media Composer, Adobe Suite.
-* **IA y Automatización:** Uso de modelos locales (Ollama/Qwen) para optimización de textos y flujos de trabajo.
+* **Herramientas técnicas:** DaVinci Resolve, Avid Media Composer, Adobe Suite.
+* **IA y Automatización:** Dominio de asistentes generativos (ChatGPT), modelos en la nube de alta velocidad (Step 3.7 Flash, Hy3) y despliegue local por privacidad de datos (Ollama/Qwen) para redacción asistida, control de calidad (QA) y optimización de flujos de trabajo.
 * **Idiomas:** Español (Nativo), Portugués (C2), Inglés (Básico en progreso).
 
 ## 📂 Documentos de Muestra (Portafolio)
