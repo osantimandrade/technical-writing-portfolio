@@ -52,3 +52,34 @@ Para estandarizar la entrega de copias y el acceso del equipo, se definió la si
 ├── 06_LEADERS_CRDTS
 ├── 07_MASTER
 └── 08_EXTRAS
+
+## 4. Procedimiento de Respaldo (Clonado)
+
+Para asegurar la integridad del material, el clonado se realizará utilizando la herramienta **Clone Tool** de DaVinci Resolve.
+
+1. Abrir la pestaña de **Media Storage** y localizar los archivos originales.
+2. Seleccionar la carpeta de origen y arrastrarla al campo **Source**.
+3. Seleccionar el destino en el servidor o disco de respaldo y arrastrarlo al campo **Destination**. *(Es posible añadir múltiples destinos simultáneos para redundancia).*
+4. Hacer clic en **Add Job**.
+5. Ejecutar el proceso haciendo clic en **Clone** y esperar la verificación de checksums.
+
+---
+
+## 5. Especificaciones de Entregables (Deliverables)
+
+El flujo de postproducción requiere la exportación de material para tres áreas específicas. Es obligatorio solicitar a cada departamento una confirmación (referencia) del material recibido para validar la transferencia.
+
+### A. Color (DaVinci Resolve)
+* **Referencia de corte:** Apple ProRes 422 Proxy.
+* **Nota:** Incluir referencias de efectos pre-renderizados (quemados) en el video.
+
+### B. Sonido (Pro Tools)
+* **Referencia de corte:** Video con codec ligero.
+* **Archivos de proyecto:** Medias de audio sincronizadas.
+* **Configuración:** Exportación AAF (Embedded y Link to).
+
+### C. Conformado
+* **Referencia de corte:** Apple ProRes 422 Proxy.
+* **Configuración:** Exportación AAF para reconstrucción del timeline.
+
+> ⚠️ **Protocolo de QA:** Es responsabilidad del DIT verificar que los codecs, resoluciones, frame rates y timecodes coincidan entre el material original y los archivos de intercambio (AAF/Proxies).
