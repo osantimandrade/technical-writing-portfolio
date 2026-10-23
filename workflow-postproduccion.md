@@ -56,12 +56,10 @@ Para estandarizar la entrega de copias y el acceso del equipo, se definió la si
 ## 4. Procedimiento de Respaldo (Clonado)
 
 Para asegurar la integridad del material, el clonado se realizará utilizando la herramienta **Clone Tool** de DaVinci Resolve.
-
-1. Abrir la pestaña de **Media Storage** y localizar los archivos originales.
-2. Seleccionar la carpeta de origen y arrastrarla al campo **Source**.
-3. Seleccionar el destino en el servidor o disco de respaldo y arrastrarlo al campo **Destination**. *(Es posible añadir múltiples destinos simultáneos para redundancia).*
-4. Hacer clic en **Add Job**.
-5. Ejecutar el proceso haciendo clic en **Clone** y esperar la verificación de checksums.
+<img width="468" height="345" alt="imagen" src="https://github.com/user-attachments/assets/c10e2d80-4779-47b3-925f-e73fb747a9e5" />
+<img width="468" height="271" alt="imagen" src="https://github.com/user-attachments/assets/9aa183d6-fc31-42fc-9059-0e9283794fc9" />
+<img width="468" height="323" alt="imagen" src="https://github.com/user-attachments/assets/ced4e663-77a0-4120-b975-fb68b33d2aff" />
+<img width="468" height="274" alt="imagen" src="https://github.com/user-attachments/assets/bd1c0bef-e02a-435e-8817-046e1d632f01" />
 
 ---
 
