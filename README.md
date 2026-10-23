@@ -15,7 +15,7 @@ Mi formación en montaje y postproducción (EICTV, Cuba) me ha enseñado que un 
 
 Aquí puedes ver ejemplos de mi capacidad para estructurar información técnica y guiar al usuario:
 
-1. **[Guía de configuración: Flujo de trabajo con Proxies en DaVinci Resolve]([./Workflow-with-proxies-in-DaVinci-Resolve.md](https://github.com/osantimandrade/technical-writing-portfolio/blob/main/Workflow%20with%20proxies%20in%20DaVinci%20Resolve.md))**
+1. **[Guía de configuración: Flujo de trabajo con Proxies en DaVinci Resolve](./Workflow%20with%20proxies%20in%20DaVinci%20Resolve.md)**
    * *Qué demuestra:* Capacidad para crear tutoriales paso a paso (How-to guides) con capturas de pantalla, asegurando que el usuario no se pierda en el proceso.
 2. **[Runbook: Pipeline de Gestión de Datos y Postproducción](./workflow-postproduccion.md)**
    * *Qué demuestra:* Habilidad para documentar arquitecturas de sistemas, establecer convenciones de nombres (naming conventions) y definir entregables entre equipos multidisciplinarios.
