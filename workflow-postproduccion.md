@@ -53,6 +53,8 @@ Para estandarizar la entrega de copias y el acceso del equipo, se definió la si
 ├── 07_MASTER
 └── 08_EXTRAS
 
+```
+
 ## 4. Procedimiento de Respaldo (Clonado)
 
 Para asegurar la integridad del material, el clonado se realizará utilizando la herramienta **Clone Tool** de DaVinci Resolve.
